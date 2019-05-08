@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc08df956742c961f1246dff56569b79",
+    "revision": "0ba8102be5fabd47fc552b92f2d12ff4",
     "url": "/kamiloc/blacksip-web-layout/index.html"
   },
   {
