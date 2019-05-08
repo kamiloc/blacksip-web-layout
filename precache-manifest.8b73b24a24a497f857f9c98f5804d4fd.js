@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80275d71e984547dedab0c3d63aa1d6c",
+    "revision": "3d909011dee9cf2e0a2474054c73c58a",
     "url": "/kamiloc/blacksip-web-layout/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kamiloc/blacksip-web-layout/static/css/2.cdb4bf7c.chunk.css"
   },
   {
-    "revision": "89373e7ce2d786871422",
-    "url": "/kamiloc/blacksip-web-layout/static/css/main.81372dda.chunk.css"
+    "revision": "a560e6dc31257e10cf87",
+    "url": "/kamiloc/blacksip-web-layout/static/css/main.a8adac78.chunk.css"
   },
   {
     "revision": "559ba94c47e1471e86ab",
     "url": "/kamiloc/blacksip-web-layout/static/js/2.b83e4e51.chunk.js"
   },
   {
-    "revision": "89373e7ce2d786871422",
-    "url": "/kamiloc/blacksip-web-layout/static/js/main.61826a6b.chunk.js"
+    "revision": "a560e6dc31257e10cf87",
+    "url": "/kamiloc/blacksip-web-layout/static/js/main.62f95dfb.chunk.js"
   },
   {
     "revision": "672c91c65bde7366b44c",

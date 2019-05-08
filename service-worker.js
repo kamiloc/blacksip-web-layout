@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kamiloc/blacksip-web-layout/precache-manifest.cb1a966cb4c70d040195b924ce15053b.js"
+  "/kamiloc/blacksip-web-layout/precache-manifest.8b73b24a24a497f857f9c98f5804d4fd.js"
 );
 
 self.addEventListener('message', (event) => {
