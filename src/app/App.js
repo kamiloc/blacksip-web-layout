@@ -97,7 +97,7 @@ function App() {
             <li>ACCESORIOS</li>
             <li>BÁSICOS INFALTABLES</li>
             <li>NOVEDADES</li>
-            <li class="special">REBAJAS</li>
+            <li className="special">REBAJAS</li>
           </ul>
         </nav>
 
@@ -237,12 +237,12 @@ function App() {
 
             <input placeholder="Item formulario" type="text" />
 
-            <div class="form-row">
+            <div className="form-row">
               <input placeholder="Item formulario" type="text" />
               <input placeholder="Item formulario" type="text" />
             </div>
 
-            <div class="form-row">
+            <div className="form-row">
               <input placeholder="Item formulario" type="text" />
               <input placeholder="Item formulario" type="text" />
             </div>
@@ -267,22 +267,22 @@ function App() {
         <div>
           <div>
             <FontAwesomeIcon icon={faShoePrints} size="4x" />
-            <text>MI HORMA PERFECTA</text>
+            <p>MI HORMA PERFECTA</p>
           </div>
 
           <div>
             <FontAwesomeIcon icon={faPlaneDeparture} size="4x" />
-            <text>ENVÍOS A TODO EL PAÍS</text>
+            <p>ENVÍOS A TODO EL PAÍS</p>
           </div>
 
           <div>
             <FontAwesomeIcon icon={faDollarSign} size="4x" />
-            <text>MÉTODOS DE PAGO</text>
+            <p>MÉTODOS DE PAGO</p>
           </div>
 
           <div>
             <FontAwesomeIcon icon={faSyncAlt} size="4x" />
-            <text>DEVOLUCIONES FÁCILES</text>
+            <p>DEVOLUCIONES FÁCILES</p>
           </div>
         </div>
 
@@ -347,7 +347,7 @@ function App() {
         <div>
           <h4>ENCUENTRA TU TIENDA</h4>
 
-          <div class="location-input">
+          <div className="location-input">
             <input type="text" placeholder="ciudad" />
             <FontAwesomeIcon icon={faMapMarkerAlt} size="1x" />
           </div>
@@ -356,25 +356,25 @@ function App() {
         <div>
           <h4>SÍGUENOS</h4>
 
-          <div class="social-link">
+          <div className="social-link">
             <FontAwesomeIcon icon={faInstagram} size="2x" />
             <p>nombreMarca_</p>
           </div>
 
-          <div class="social-link">
+          <div className="social-link">
             <FontAwesomeIcon icon={faFacebook} size="2x" />
             <p>Nombre Marca</p>
             faYoutube,
           </div>
 
-          <div class="social-link">
+          <div className="social-link">
             <FontAwesomeIcon icon={faYoutube} size="2x" />
             <p>nombreMarca</p>
           </div>
         </div>
       </footer>
 
-      <div class="end-footer">
+      <div className="end-footer">
         <p>Medios de pago</p>
         <FontAwesomeIcon icon={faCcMastercard} size="2x" />
         <FontAwesomeIcon icon={faCcVisa} size="2x" />

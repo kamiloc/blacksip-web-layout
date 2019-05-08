@@ -311,7 +311,7 @@ button {
   width: 22% !important;
 }
 
-.content-5 > div:nth-child(1) div text {
+.content-5 > div:nth-child(1) div p {
   margin-left: 9%;
 }
 
