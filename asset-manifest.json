@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kamiloc/blacksip-web-layout/static/css/main.81372dda.chunk.css",
+    "main.js": "/kamiloc/blacksip-web-layout/static/js/main.61826a6b.chunk.js",
+    "main.js.map": "/kamiloc/blacksip-web-layout/static/js/main.61826a6b.chunk.js.map",
+    "runtime~main.js": "/kamiloc/blacksip-web-layout/static/js/runtime~main.41ee168b.js",
+    "runtime~main.js.map": "/kamiloc/blacksip-web-layout/static/js/runtime~main.41ee168b.js.map",
+    "static/css/2.cdb4bf7c.chunk.css": "/kamiloc/blacksip-web-layout/static/css/2.cdb4bf7c.chunk.css",
+    "static/js/2.b83e4e51.chunk.js": "/kamiloc/blacksip-web-layout/static/js/2.b83e4e51.chunk.js",
+    "static/js/2.b83e4e51.chunk.js.map": "/kamiloc/blacksip-web-layout/static/js/2.b83e4e51.chunk.js.map",
+    "index.html": "/kamiloc/blacksip-web-layout/index.html",
+    "precache-manifest.cb1a966cb4c70d040195b924ce15053b.js": "/kamiloc/blacksip-web-layout/precache-manifest.cb1a966cb4c70d040195b924ce15053b.js",
+    "service-worker.js": "/kamiloc/blacksip-web-layout/service-worker.js",
+    "static/css/2.cdb4bf7c.chunk.css.map": "/kamiloc/blacksip-web-layout/static/css/2.cdb4bf7c.chunk.css.map",
+    "static/css/main.81372dda.chunk.css.map": "/kamiloc/blacksip-web-layout/static/css/main.81372dda.chunk.css.map",
+    "static/media/2.jpg": "/kamiloc/blacksip-web-layout/static/media/2.dda23577.jpg",
+    "static/media/3.jpg": "/kamiloc/blacksip-web-layout/static/media/3.47b2a67d.jpg",
+    "static/media/4.jpg": "/kamiloc/blacksip-web-layout/static/media/4.7a0459b9.jpg",
+    "static/media/chat.jpg": "/kamiloc/blacksip-web-layout/static/media/chat.286ac73d.jpg",
+    "static/media/logo.png": "/kamiloc/blacksip-web-layout/static/media/logo.e31fe5be.png",
+    "static/media/App.css": "/kamiloc/blacksip-web-layout/static/media/slick.f97e3bbf.svg"
+  }
+}
